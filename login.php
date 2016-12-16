@@ -18,9 +18,11 @@ if ($result) {
         header("location: index.php?status=berhasil");
     } else {
         echo "<script>alert('Login Gagal');</script>";
+        header("location: index.php?status=gagal");
     }
 } else {
     echo "<script>alert('Login Gagal');</script>";
+    header("location: index.php?status=gagal");
 }
-header("location: index.php?status=gagal");
+
 ?>
