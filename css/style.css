@@ -1,0 +1,103 @@
+#slidermen .owl-item div {
+    padding: 0px;
+}
+
+#slidermen .owl-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#slidermen {
+    margin: 0px;
+}
+
+.navbar {
+    margin: 0px;
+}
+
+.side {
+    list-style: none;
+}
+
+.brg {
+    padding: 3px;
+    margin-top: 10px;
+}
+
+fieldset {
+    display: block;
+    margin: 0 auto;
+    border: thin solid #ccc;
+    border-radius: 0px;
+    padding: 20px;
+    padding-left: 40px;
+    background: #fbfbfb;
+}
+
+legend {
+    color: #678;
+}
+
+.form-control {
+    width: 95%;
+}
+
+label small {
+    color: #678 !important;
+}
+
+span.req {
+    color: maroon;
+    font-size: 112%;
+}
+
+.ut > img {
+    margin-right: 6px;
+}
+
+.beli {
+    margin: 0 auto;
+}
+
+.barg {
+    margin: 0 auto;
+}
+
+.img-responsive {
+    border-radius: 2px;
+}
+
+.footer-above {
+    background-color: #337ab7;
+    color: white;
+}
+
+.isi {
+    background-color: white;
+}
+
+footer {
+    margin-top: 10px;
+}
+
+.gede {
+    margin: 0 auto;
+}
+
+.modal-header {
+    background-color: #5cb85c;
+    border-radius: 3px 3px 0 0;
+}
+
+.cartitm {
+    margin-top: 5px;
+}
+
+.judul {
+    color: inherit;
+}
+
+.judul:hover {
+    text-decoration: none;
+}
